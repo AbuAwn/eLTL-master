@@ -1,4 +1,7 @@
-A Flink application project using Scala and SBT.
+
+This project is part of a work end of Master to impliment eLTL logic.
+
+A Flink application project using Scala and SBT to implement eLTL logic
 
 To run and test your application locally, you can just execute `sbt run` then select the main class that contains the Flink job . 
 
