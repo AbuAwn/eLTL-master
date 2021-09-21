@@ -1,0 +1,12 @@
+[0m[[0m[0minfo[0m] [0m[0m[32meLTLtest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- TC 01: apply[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- TC 02: index function[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- TC 03: parse[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- TC 04: intervallPQ[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- TC 05: Interval formula[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- TC 06: UntilPQ[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- TC 07: UntilP: List((1,1))[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- TC 08: EventuallyPQ, def. directa vs def. recursiva[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- TC 09: EventuallyP, def. directa vs def. recursiva[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- TC 10: AlwaysPQ, def. directa vs def. recursiva[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- TC 11: AlwaysP, def. directa vs def. recursiva[0m[0m

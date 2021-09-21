@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\aba\git\eLTL-master\src\test\scala\eLTLtest.scala:46:57: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : org.apache.flink.api.scala.DataSet[String][0m
+[0m[[0m[31merror[0m] [0m[0m required: org.apache.flink.api.scala.DataSet[(Long, ?)][0m
+[0m[[0m[31merror[0m] [0m[0m    test("TC 07: UntilP: " + intervals(benv.fromElements("s", "srp", "s"), p).toString [0m
+[0m[[0m[31merror[0m] [0m[0m                                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

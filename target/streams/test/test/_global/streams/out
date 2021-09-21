@@ -1,0 +1,29 @@
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector()[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for org.scalatest.tools.Framework produced 2 initial tasks for 2 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(InlineBenchmarkTest, sbt.ForkMain$SubclassFingerscan@3651f49, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mInlineBenchmarkTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Should correctly execute an inline benchmark[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(eLTLtest, sbt.ForkMain$SubclassFingerscan@5466ad59, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32meLTLtest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- TC 01: apply[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- TC 03: parse[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- TC 04: intervallPQ[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- TC 05: Interval formula[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- TC 06: UntilPQ[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- TC 07: UntilP: List((2,2))[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- TC 08: EventuallyPQ, def. directa vs def. recursiva[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- TC 09: EventuallyP, def. directa vs def. recursiva[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- TC 10: AlwaysPQ, def. directa vs def. recursiva[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- TC 11: AlwaysP, def. directa vs def. recursiva[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 10 events.[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 18 seconds, 370 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 11[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 2, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 11, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	InlineBenchmarkTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	eLTLtest[0m

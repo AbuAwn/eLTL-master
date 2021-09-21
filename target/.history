@@ -1,0 +1,186 @@
+run
+run eLTL
+run WordCount
+exit
+compile
+run
+exit
+run
+run eLTL
+run
+run eLTL
+run
+exit
+run
+eun
+run
+test
+exit
+run
+test
+exit
+test
+~test
+xit
+exit
+test
+exit
+test
+run
+test
+compile
+exit
+test
+exit
+~ test
+xit
+exit
+~ test
+~ test eLTLtestDSL
+~ testOnly
+testOnly eLTLtestDSL
+~ testOnly eLTLtestDSL
+exit
+sbt
+~ testOnly eLTLtestDSL
+exit
+~ testOnly eLTLtestDSL
+reload
+~ testOnly eLTLtestDSL
+~ testOnly eLTLtest
+~ testOnly eLTLtestDSL
+~ testOnly eLTLtest
+~ testOnly eLTLtestDSL
+~ testOnly eLTLtest
+~ testOnly eLTLtestDSL
+~ testOnly eLTLtest
+xit
+exi
+exit
+~ testOnly eLTLtestDSL
+run eLTL
+~ testOnly eLTLtestDSL
+~ testOnly eLTLtest
+~ testOnly eLTLtest -- -z "TC 07"
+~rn job
+~run job
+run job
+~run job
+run job
+run
+~ run
+~ testOnly eLTLtest
+~ run
+~ testOnly eLTLDSLtest
+~run
+~run eLTLjob
+~run
+exit
+run
+~run
+~ testOnly eLTLDSLtest
+~testOnly eLTLtestDSL
+run
+code .
+exit
+run
+test
+~run
+dependencyList
+dependency List
+version
+~run
+rel
+reload
+run
+~run
+test
+exit
+~run
+exit
+run
+exit
+run
+exit
+run
+~run
+~testOnly eLTLtest --- -z "TC 05"
+~testOnly eLTLtest -- "TC 05"
+~testOnly eLTLtest -- -z "TC 05"
+~testOnly eLTLtest
+~un
+~run
+run
+test
+run
+test
+run
+exit
+run
+testOnly  eLTLtest
+run
+testOnly  eLTLtest
+run
+exit
+run
+exit
+run
+testOnly  eLTLtest
+exit
+testOnly  eLTLtest
+run
+testOnly  eLTLtest
+run
+[A
+run
+ver
+version
+exit
+run
+test-only test-only sctest.RangeBenchmark
+exit
+test-only sctest.RangeBenchmark
+test-only sctest
+testOnly  eLTLtest
+testOnly  sctest
+test-only mypackage.MyScalaMeterTestName
+testOnly  sctest
+run
+testOnly  sctest
+exit
+testOnly  sctest
+exit
+test
+test-only mypackage.MyScalaMeterTestName
+test
+test-only timeTest
+exit
+test-only timeTest
+test
+exit
+test
+version
+exit
+run
+clear
+clc
+run
+test-only eLTLtest
+exit
+test-only eLTLtest
+run test
+test
+exit
+test
+exit
+test
+exit
+test
+run
+exit
+run
+help
+testOnly InlineBenchmarkTest
+exit
+sbt run
+run

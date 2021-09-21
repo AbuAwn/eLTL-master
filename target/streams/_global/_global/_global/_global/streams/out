@@ -1,0 +1,443 @@
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [root / Compile / run] Found inputs: C:\Users\bouao\git\eLTL\*.{java,scala},C:\Users\bouao\git\eLTL\src\main\java\**\*.{java,scala},C:\Users\bouao\git\eLTL\src\main\resources\**\*,C:\Users\bouao\git\eLTL\src\main\scala\**\*.{java,scala},C:\Users\bouao\git\eLTL\src\main\scala-2.11\**\*.{java,scala}[0m
+[0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala (previous stamp: Hash(273cc1f07326961cea3e52cd32b2c7cd69914196), current stamp: Hash(0209d09f2e1ba9703b7072a76b7d5221eab05adb))[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala -> Trigger. Returning: (Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:04:18.444 CET),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:04:18.444 CET).[0m
+[0m[[0m[0minfo[0m] [0m[0m2. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. This event occurred 3 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala (previous stamp: Hash(0209d09f2e1ba9703b7072a76b7d5221eab05adb), current stamp: Hash(219b345d5d6246dfc6617ea3f208ce1f9c06dbc7))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala -> Trigger. Returning: (Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:12:53.724 CET),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:12:53.724 CET).[0m
+[0m[[0m[0minfo[0m] [0m[0m3. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. This event occurred 0 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala (previous stamp: Hash(219b345d5d6246dfc6617ea3f208ce1f9c06dbc7), current stamp: Hash(da39a3ee5e6b4b0d3255bfef95601890afd80709))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala -> Trigger. Returning: (Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:12:55.751 CET),Trigger)[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:12:55.751 CET).[0m
+[0m[[0m[0minfo[0m] [0m[0m4. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. This event occurred 2 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala (previous stamp: Hash(da39a3ee5e6b4b0d3255bfef95601890afd80709), current stamp: Hash(934903a463b040fb1bb3b9d1ed70c13a747c44ed))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala -> Trigger. Returning: (Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:12:57.579 CET),Trigger)[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:12:57.579 CET).[0m
+[0m[[0m[0minfo[0m] [0m[0m5. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. This event occurred 1 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala (previous stamp: Hash(934903a463b040fb1bb3b9d1ed70c13a747c44ed), current stamp: Hash(da39a3ee5e6b4b0d3255bfef95601890afd80709))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala -> Trigger. Returning: (Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:13:00.534 CET),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:13:00.534 CET).[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0m6. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. This event occurred 18 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala (previous stamp: Hash(da39a3ee5e6b4b0d3255bfef95601890afd80709), current stamp: Hash(7e2d3aa53201defb5d522c99bb80e48cabf2df06))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala -> Trigger. Returning: (Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:13:01.741 CET),Trigger)[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:13:01.741 CET).[0m
+[0m[[0m[0minfo[0m] [0m[0m7. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. This event occurred 5 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala (previous stamp: Hash(7e2d3aa53201defb5d522c99bb80e48cabf2df06), current stamp: Hash(934903a463b040fb1bb3b9d1ed70c13a747c44ed))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala -> Trigger. Returning: (Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:13:05.276 CET),Trigger)[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:13:05.276 CET).[0m
+[0m[[0m[0minfo[0m] [0m[0m8. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. This event occurred 3 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala (previous stamp: Hash(934903a463b040fb1bb3b9d1ed70c13a747c44ed), current stamp: Hash(160f76522e9f4cb520bbbfbc3be0f92129a038f0))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala -> Trigger. Returning: (Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:13:07.506 CET),Trigger)[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:13:07.506 CET).[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0m9. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. This event occurred 1 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala (previous stamp: Hash(160f76522e9f4cb520bbbfbc3be0f92129a038f0), current stamp: Hash(54527a0706bbfbd718bcb29cbb5e17748fc848e1))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala -> Trigger. Returning: (Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:13:14.631 CET),Trigger)[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:13:14.631 CET).[0m
+[0m[[0m[0minfo[0m] [0m[0m10. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. This event occurred 3 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala (previous stamp: Hash(54527a0706bbfbd718bcb29cbb5e17748fc848e1), current stamp: Hash(da39a3ee5e6b4b0d3255bfef95601890afd80709))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala -> Trigger. Returning: (Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:13:17.364 CET),Trigger)[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:13:17.364 CET).[0m
+[0m[[0m[0minfo[0m] [0m[0m11. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. This event occurred 1 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mDropping event for unmodified path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. This event occurred 3 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mDropping event for unmodified path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. This event occurred 2 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala (previous stamp: Hash(da39a3ee5e6b4b0d3255bfef95601890afd80709), current stamp: Hash(085fcaff3d9ef5914eff63e774f9cb21af0c4197))[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala -> Trigger. Returning: (Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:13:23.966 CET),Trigger)[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:13:23.966 CET).[0m
+[0m[[0m[0minfo[0m] [0m[0m12. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. This event occurred 4 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala (previous stamp: Hash(085fcaff3d9ef5914eff63e774f9cb21af0c4197), current stamp: Hash(da39a3ee5e6b4b0d3255bfef95601890afd80709))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala -> Trigger. Returning: (Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:13:25.360 CET),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:13:25.360 CET).[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0m13. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. This event occurred 3 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala (previous stamp: Hash(da39a3ee5e6b4b0d3255bfef95601890afd80709), current stamp: Hash(946206d8bc723196d968ec30dd188d9b000920ac))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala -> Trigger. Returning: (Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:13:38.859 CET),Trigger)[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:13:38.859 CET).[0m
+[0m[[0m[0minfo[0m] [0m[0m14. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. This event occurred 3 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala (previous stamp: Hash(946206d8bc723196d968ec30dd188d9b000920ac), current stamp: Hash(0ba2de751787ff91386a48dc98f2df0898e301ed))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala -> Trigger. Returning: (Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:13:40.843 CET),Trigger)[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:13:40.843 CET).[0m
+[0m[[0m[0minfo[0m] [0m[0m15. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. This event occurred 3 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala (previous stamp: Hash(0ba2de751787ff91386a48dc98f2df0898e301ed), current stamp: Hash(a0eeb8116cff235aa17cddf4bc035c7e0f510f5d))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala -> Trigger. Returning: (Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:13:43.489 CET),Trigger)[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:13:43.489 CET).[0m
+[0m[[0m[0minfo[0m] [0m[0m16. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. This event occurred 3 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala (previous stamp: Hash(a0eeb8116cff235aa17cddf4bc035c7e0f510f5d), current stamp: Hash(afc7fb806dc9ef44ade7072ff401340ed1a58a08))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala -> Trigger. Returning: (Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:13:45.305 CET),Trigger)[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:13:45.305 CET).[0m
+[0m[[0m[0minfo[0m] [0m[0m17. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. This event occurred 4 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala (previous stamp: Hash(afc7fb806dc9ef44ade7072ff401340ed1a58a08), current stamp: Hash(8882b8f632665322ecdaede0b59334e6775e4ad8))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala -> Trigger. Returning: (Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:14:03.677 CET),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:14:03.677 CET).[0m
+[0m[[0m[0minfo[0m] [0m[0m18. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. This event occurred 0 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala (previous stamp: Hash(8882b8f632665322ecdaede0b59334e6775e4ad8), current stamp: Hash(da39a3ee5e6b4b0d3255bfef95601890afd80709))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala -> Trigger. Returning: (Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:14:06.402 CET),Trigger)[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:14:06.402 CET).[0m
+[0m[[0m[0minfo[0m] [0m[0m19. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. This event occurred 1 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala (previous stamp: Hash(da39a3ee5e6b4b0d3255bfef95601890afd80709), current stamp: Hash(b0dfa3804fad48b17458813f8467d0a3d91a3e2a))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala -> Trigger. Returning: (Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:14:26.991 CET),Trigger)[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:14:26.991 CET).[0m
+[0m[[0m[0minfo[0m] [0m[0m20. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. This event occurred 2 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala (previous stamp: Hash(b0dfa3804fad48b17458813f8467d0a3d91a3e2a), current stamp: Hash(da39a3ee5e6b4b0d3255bfef95601890afd80709))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala -> Trigger. Returning: (Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:14:43.297 CET),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:14:43.297 CET).[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0m21. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. This event occurred 4 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mDropping event for unmodified path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. This event occurred 3 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala (previous stamp: Hash(da39a3ee5e6b4b0d3255bfef95601890afd80709), current stamp: Hash(508cbf387b3ecdb8e0e395cbf73b25d5231ddaba))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala -> Trigger. Returning: (Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:15:24.491 CET),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:15:24.491 CET).[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0m22. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. This event occurred 3 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala (previous stamp: Hash(508cbf387b3ecdb8e0e395cbf73b25d5231ddaba), current stamp: Hash(887a4080c23cabc8add0f4c9e77f9a24a777aa01))[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala -> Trigger. Returning: (Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:24:39.035 CET),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala, 2020-sep-21 22:24:39.035 CET).[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0m23. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\eLTL.scala. This event occurred 3 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala (previous stamp: Hash(a47fd7292dffca845599c7cd50153207e5efe95c), current stamp: Hash(e69a8f094faa6b16b7a2e187545a645b1c327508))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala -> Trigger. Returning: (Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala, 2020-sep-21 22:32:36.776 CET),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala, 2020-sep-21 22:32:36.776 CET).[0m
+[0m[[0m[0minfo[0m] [0m[0m24. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala. This event occurred 2 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala (previous stamp: Hash(e69a8f094faa6b16b7a2e187545a645b1c327508), current stamp: Hash(a3b2a1e2a661a3be04aaee6664c51c5e7ef0218f))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala -> Trigger. Returning: (Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala, 2020-sep-21 22:32:41.716 CET),Trigger)[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala, 2020-sep-21 22:32:41.716 CET).[0m
+[0m[[0m[0minfo[0m] [0m[0m25. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala. This event occurred 3 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala (previous stamp: Hash(a3b2a1e2a661a3be04aaee6664c51c5e7ef0218f), current stamp: Hash(73e7899021075e5aac512b528599dc795a514cdf))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala -> Trigger. Returning: (Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala, 2020-sep-21 22:32:47.489 CET),Trigger)[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala, 2020-sep-21 22:32:47.489 CET).[0m
+[0m[[0m[0minfo[0m] [0m[0m26. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala. This event occurred 1 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala (previous stamp: Hash(73e7899021075e5aac512b528599dc795a514cdf), current stamp: Hash(b45f25aa0b81067b8d3f7a98624ba896faef404b))[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala -> Trigger. Returning: (Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala, 2020-sep-21 22:33:06.141 CET),Trigger)[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala, 2020-sep-21 22:33:06.141 CET).[0m
+[0m[[0m[0minfo[0m] [0m[0m27. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala. This event occurred 3 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala (previous stamp: Hash(b45f25aa0b81067b8d3f7a98624ba896faef404b), current stamp: Hash(3e7be0d041bc1a80526735504f6b06023855e68c))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala -> Trigger. Returning: (Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala, 2020-sep-21 22:33:09.817 CET),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala, 2020-sep-21 22:33:09.817 CET).[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0m28. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala. This event occurred 1 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala (previous stamp: Hash(3e7be0d041bc1a80526735504f6b06023855e68c), current stamp: Hash(508218c7d02d815164ab76b70cae00c2aac6b9f5))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala -> Trigger. Returning: (Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala, 2020-sep-21 22:33:38.472 CET),Trigger)[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala, 2020-sep-21 22:33:38.472 CET).[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0minfo[0m] [0m[0m29. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala. This event occurred 3 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala (previous stamp: Hash(508218c7d02d815164ab76b70cae00c2aac6b9f5), current stamp: Hash(25f49a3c4ff3563bf6ef42354c25ce1bebbff695))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala -> Trigger. Returning: (Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala, 2020-sep-21 22:34:51.610 CET),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala, 2020-sep-21 22:34:51.610 CET).[0m
+[0m[[0m[0minfo[0m] [0m[0m30. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala. This event occurred 1 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala (previous stamp: Hash(25f49a3c4ff3563bf6ef42354c25ce1bebbff695), current stamp: Hash(3ed8aae18efa9b141b824b17cc6b9551be7df2bb))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala -> Trigger. Returning: (Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala, 2020-sep-21 22:35:35.568 CET),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala, 2020-sep-21 22:35:35.568 CET).[0m
+[0m[[0m[0minfo[0m] [0m[0m31. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m    Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\bouao\git\eLTL\src\main\scala\org\uma\Job.scala. This event occurred 2 ms since the last event for this path.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m

@@ -1,0 +1,2 @@
+[0m[[0m[0minfo[0m] [0m[0m[32meLTLtestDSL:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- TC 15: Example A(p, q)(Phi10 -> E(r, l) Phi10) == A(p,q)(Or(Neg(Phi10), E(r,l)(Phi03)))[0m[0m
