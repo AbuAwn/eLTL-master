@@ -1,4 +1,5 @@
 
+// Ejemplo simple parar calcular el tiempo de ejecuión
 import org.scalatest.FunSuite
 import org.scalameter._
 
