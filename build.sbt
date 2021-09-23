@@ -23,7 +23,8 @@ val flinkDependencies = Seq(
   "org.scala-lang.modules" %% "scala-parser-combinators" % "1.1.2",
   "org.scala-lang" % "scala-compiler" % "2.11.12",
   "org.scalaz" %% "scalaz-core" % "7.3.5",
-  "org.apache.flink" %% "flink-runtime-web" % "1.13.2" % Test
+  "org.apache.flink" %% "flink-runtime-web" % "1.13.2" % Test,
+  "com.lihaoyi" %% "os-lib" % "0.2.7"
 )
 
 lazy val root = (project in file(".")).
