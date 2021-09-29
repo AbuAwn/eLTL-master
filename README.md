@@ -1,5 +1,5 @@
 
-This project is part of a work end of Master to impliment eLTL logic.
+# This project is part of a work end of Master to impliment eLTL logic.
 
 A Flink application project using Scala and SBT to implement eLTL logic
 
@@ -14,3 +14,8 @@ flink run -c org.example.WordCount /path/to/your/project/my-app/target/scala-2.1
 
 You can also run your application from within IntelliJ:  select the classpath of the 'mainRunner' module in the run/debug configurations.
 Simply open 'Run -> Edit configurations...' and then select 'mainRunner' from the "Use classpath of module" dropbox. 
+
+## eLTL formulae
+
+<img src="https://render.githubusercontent.com/render/math?math=\psi ::= \phi \,|\, \lnot \psi \,|\, \psi_1 \vee \psi_2 \,|\, \psi_1 U_{[p,q]} \phi \,|\, \psi_1 U_p \psi_2">
+
