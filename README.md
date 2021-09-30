@@ -27,7 +27,7 @@ Given p, q ∈ F, and φ ∈ Φ, the formulae of eLTL logic are recursively cons
 </p>
 The rest of the temporal operators are accordingly defined as:
 <p align="center">
-  ◇<sub>[p,q]</sub> ψ ≡ True U<sub>[p,q]</sub>]ψ
+  ◇<sub>[p,q]</sub> ψ ≡ True U<sub>[p,q]</sub>ψ
 </p>
 <p align="center">  
   ◇<sub>p</sub> ψ ≡ True U<sub>p</sub> ψ
