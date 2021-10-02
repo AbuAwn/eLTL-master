@@ -24,9 +24,6 @@ object eLTL {
             cache(k)
             })
     }
-
-    //def apply  : (DataSet[(Long, _)], _ => Boolean) => ( DataSet[(Long, Boolean)]) =  (b: DataSet[(Long, _)], cond: _ => Boolean) => b.map{ e => (e._1, cond(e._2))}
-
     def apply[T](b: DataSet[(Long, T)], cond: T => Boolean): DataSet[(Long, Boolean)] 
             =  b.map{ e => (e._1, cond(e._2))}
     val mApply = Memo.immutableHashMapMemo{apply _ tupled}
@@ -36,9 +33,6 @@ object eLTL {
             lazy_b
             //apply(b, cond).filter{_._2}.map { pair => pair._1 }
         }
-    //def mParse  = Memo.immutableHashMapMemo{parse _ tupled}
-    //def fParse: ((DataSet[(Long, T)], T => Boolean) => List[Long]) = (b: DataSet[(Long, T)], cond: T => Boolean) => mParse(b, cond)
-    //val mParse  = Memo.immutableHashMapMemo{fParse _ tupled}
                 
     def intervalPQ(lp: List[Long], lq: List[Long],  ti: Long = 0, tf: Long = Long.MaxValue): List[(Long, Long)] = {
     try{    
