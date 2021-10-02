@@ -14,7 +14,30 @@ flink run -c org.example.WordCount /path/to/your/project/my-app/target/scala-2.1
 
 You can also run your application from within IntelliJ:  select the classpath of the 'mainRunner' module in the run/debug configurations.
 Simply open 'Run -> Edit configurations...' and then select 'mainRunner' from the "Use classpath of module" dropbox. 
-
+## Project layout
+```
+│   build.sbt
+.
+.
+.
+├───src
+│   ├───main
+.
+.
+.
+│   │   │
+│   │   └───scala
+│   │       └───org
+│   │           └───uma
+│   │                   Ejemplos.scala
+│   │                   eLTL.scala
+│   │                   Rendimiento.scala
+│   │
+│   └───test
+│       └───scala
+│               eLTLtest.scala
+│               timeTest.scala
+```
 ## eLTL formulae
 - State formula p ∈ F evaluated on single states. An event e ∈ L is also a state formula
 - Interval formula φ ∈ Φ, φ ∶ I → {true, f alse} describe the expected behaviour of continuous variables
