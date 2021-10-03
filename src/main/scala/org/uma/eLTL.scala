@@ -58,14 +58,11 @@ object eLTL {
     val mIntervalP  = Memo.immutableHashMapMemo{intervalP _ tupled}
     def intervals[T](b: DataSet[(Long, T)], p: T => Boolean, q: T => Boolean = null, ti: Long = 0, tf: Long = Long.MaxValue)
     =  q match{
-            // case null => println("mIntervalP"); mIntervalP(parse(b,p), ti, tf)
-            // case _    => println("mIntervalPQ"); mIntervalPQ(parse(b,p), parse(b,q), ti, tf)
             case null => mIntervalP(parse(b,p), ti, tf)
             case _    => mIntervalPQ(parse(b,p), parse(b,q), ti, tf)
         }
     def bPQ[T](b: DataSet[(Long, T)], i: List[(Long, Long)])
     = i.map(e => b.filter(x => (x._1 >= e._1) && (x._1 <= e._2)))
-    //val memoIntervals = Memo.immutableHashMapMemo{intervals _ tupled} //Memo.immutableHashMapMemo {intervals _}  
     def Phi[T](b: DataSet[(Long, T)], ti: Long = 0, tf: Long = Long.MaxValue): Boolean = ???
     def True[T](b: DataSet[(Long, T)], ti: Long = 0, tf: Long = Long.MaxValue): Boolean = true
     def PhiAll[T](p: T => Boolean)(b: DataSet[(Long, T)], ti: Long, tf: Long): Boolean = {
