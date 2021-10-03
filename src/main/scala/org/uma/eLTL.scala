@@ -32,7 +32,6 @@ object eLTL {
     def parse[T](b: DataSet[(Long, T)], cond: T => Boolean): List[Long]
         = { lazy val lazy_b = apply(b, cond).filter{_._2}.map { pair => pair._1 }.collect.toList
             lazy_b
-            //apply(b, cond).filter{_._2}.map { pair => pair._1 }
         }
                 
     def intervalPQ(lp: List[Long], lq: List[Long],  ti: Long = 0, tf: Long = Long.MaxValue): List[(Long, Long)] = {
