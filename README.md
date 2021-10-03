@@ -1,6 +1,5 @@
 
-# This project is part of a work end of Master to impliment eLTL logic, UMA University (Spain).
-
+# This project is part of a master's thesis to implement eLTL logic, UMA University (Spain).
 A *Flink* application project using *Scala* and *SBT* to implement **eLTL logic**
 
 To run and test your application locally, you can just execute `sbt run` then select the main class that contains the Flink job . 
@@ -73,6 +72,10 @@ Neg          | ¬            | Neg
 Until        | U            | Or
 
 ## Examples
-
-
+<p align="center">
+  ◻<sub>[p,q]</sub> ◇<sub>[r]</sub> True
+</p>
+<p align="center">
+  p:
+</p>
 
