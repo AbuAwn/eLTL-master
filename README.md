@@ -73,7 +73,7 @@ Neg          | ¬            | Neg
 Until        | U            | Or
 
 ## Example
-For all intervals that begin with "1" and end with "3" musy contain at least one "2":
+For all intervals that begin with "1" and end with "3" must contain at least one "2":
 <p align="center">
   ◻<sub>[p,q]</sub> ◇<sub>[r]</sub> True
 </p>
