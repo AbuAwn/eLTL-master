@@ -64,5 +64,14 @@ The rest of the temporal operators are accordingly defined as:
 │               timeTest.scala
 ```
 ## Implementation: eLTL.scala
+Operators     |eLTL         | Scala
+-------------|------------- | -------------
+Until        | U            | U
+Always       | ◻           | A  / A2
+Eventually   | ◇           | E  / E2
+Neg          | ¬            | Neg
+Until        | U            | Or
+
+
 
 
