@@ -80,8 +80,7 @@ An interval that begins with "1" and ends with "3", and contains at least "2":
 <p align="center">
   p:{e==1}, q:{e==3} and r:{e==2} 
 </p>
-The file csv/10.csv meets this condition:
-
+The file csv/10.csv meets this condition, values are pairs with the forme (index: Long, Data: T), in this case T is en integer:
 ```
 1;1
 2;0
