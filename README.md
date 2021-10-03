@@ -62,11 +62,4 @@ The rest of the temporal operators are accordingly defined as:
   ◻<sub>p</sub> ψ ≡ ¬(◇<sub>p</sub> ¬ψ)
 </p>
 
-<sub>p</sub>
-Normal Text
 
-<p align="center">
- ....
-</p>
-
-Normal text
