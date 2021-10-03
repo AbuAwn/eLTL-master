@@ -72,10 +72,11 @@ Neg          | ¬            | Neg
 Until        | U            | Or
 
 ## Examples
+An interval that begins with "1" and ends with "3", and contains at least "2"
 <p align="center">
   ◻<sub>[p,q]</sub> ◇<sub>[r]</sub> True
 </p>
 <p align="center">
-  p:
+  p:{e==1}, q:{e==3} and r:{e==2} 
 </p>
 
