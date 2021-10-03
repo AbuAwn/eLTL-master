@@ -72,11 +72,41 @@ Neg          | ¬            | Neg
 Until        | U            | Or
 
 ## Examples
-An interval that begins with "1" and ends with "3", and contains at least "2"
+An interval that begins with "1" and ends with "3", and contains at least "2":
 <p align="center">
   ◻<sub>[p,q]</sub> ◇<sub>[r]</sub> True
 </p>
 <p align="center">
   p:{e==1}, q:{e==3} and r:{e==2} 
 </p>
+The file csv/10.csv meets this condition:
+
+```
+1;1
+2;0
+3;0
+4;0
+5;2
+6;0
+7;0
+8;0
+9;0
+10;3
+```
+Applying this formula the result has to give true:
+
+```
+...
+override type T = (Long, Int)
+type TT = Int
+val path = os.pwd / "csv"
+...     
+val _10      = benv.readCsvFile[T](path+"/10.csv", fieldDelimiter = ";")
+...
+def Start: (TT => Boolean) = (e: TT) => {e == 1}
+def Stop : (TT => Boolean) = (e: TT) => {e == 3}
+def Cond : (TT => Boolean) = (e: TT) => {e == 2}
+...
+println(A(Start, Stop) (E(Cond) (True)) (_10, 0, Long.MaxValue))
+```
 
