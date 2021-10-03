@@ -14,6 +14,31 @@ flink run -c org.example.WordCount /path/to/your/project/my-app/target/scala-2.1
 
 You can also run your application from within IntelliJ:  select the classpath of the 'mainRunner' module in the run/debug configurations.
 Simply open 'Run -> Edit configurations...' and then select 'mainRunner' from the "Use classpath of module" dropbox. 
+
+## eLTL formulae
+- State formula p ∈ F evaluated on single states. An event e ∈ L is also a state formula
+- Interval formula φ ∈ Φ, φ ∶ I → {true, f alse} describe the expected behaviour of continuous variables
+  - [t<sub>p</sub>, t<sub>q</sub>] ∈ I time intervals in which variables must be observed
+  - Event intervals [p, q], p, q ∈ F determine intervals of states in the trace
+
+Given p, q ∈ F, and φ ∈ Φ, the formulae of eLTL logic are recursively constructed as follows:
+<p align="center">
+  ψ ∶∶= φ ∣ ¬ψ ∣ ψ<sub>1</sub> ∨ ψ<sub>2</sub> ∣ ψ<sub>1</sub>U<sub>[p,q]</sub>ψ<sub>2</sub> ∣ ψ<sub>1</sub>U<sub>p</sub>ψ<sub>2</sub>
+</p>
+The rest of the temporal operators are accordingly defined as:
+<p align="center">
+  ◇<sub>[p,q]</sub> ψ ≡ True U<sub>[p,q]</sub>ψ
+</p>
+<p align="center">  
+  ◇<sub>p</sub> ψ ≡ True U<sub>p</sub> ψ
+</p>
+<p align="center">
+  ◻<sub>[p,q]</sub> ψ ≡ ¬(◇<sub>[p,q]</sub>¬ψ)
+</p>
+<p align="center">
+  ◻<sub>p</sub> ψ ≡ ¬(◇<sub>p</sub> ¬ψ)
+</p>
+
 ## Project layout
 ```
 │   build.sbt
@@ -38,28 +63,6 @@ Simply open 'Run -> Edit configurations...' and then select 'mainRunner' from th
 │               eLTLtest.scala
 │               timeTest.scala
 ```
-## eLTL formulae
-- State formula p ∈ F evaluated on single states. An event e ∈ L is also a state formula
-- Interval formula φ ∈ Φ, φ ∶ I → {true, f alse} describe the expected behaviour of continuous variables
-  - [t<sub>p</sub>, t<sub>q</sub>] ∈ I time intervals in which variables must be observed
-  - Event intervals [p, q], p, q ∈ F determine intervals of states in the trace
-
-Given p, q ∈ F, and φ ∈ Φ, the formulae of eLTL logic are recursively constructed as follows:
-<p align="center">
-  ψ ∶∶= φ ∣ ¬ψ ∣ ψ<sub>1</sub> ∨ ψ<sub>2</sub> ∣ ψ<sub>1</sub>U<sub>[p,q]</sub>ψ<sub>2</sub> ∣ ψ<sub>1</sub>U<sub>p</sub>ψ<sub>2</sub>
-</p>
-The rest of the temporal operators are accordingly defined as:
-<p align="center">
-  ◇<sub>[p,q]</sub> ψ ≡ True U<sub>[p,q]</sub>ψ
-</p>
-<p align="center">  
-  ◇<sub>p</sub> ψ ≡ True U<sub>p</sub> ψ
-</p>
-<p align="center">
-  ◻<sub>[p,q]</sub> ψ ≡ ¬(◇<sub>[p,q]</sub>¬ψ)
-</p>
-<p align="center">
-  ◻<sub>p</sub> ψ ≡ ¬(◇<sub>p</sub> ¬ψ)
-</p>
+## Implementation: eLTL.scala
 
 
