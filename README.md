@@ -72,7 +72,7 @@ Eventually   | ◇           | E  / E2
 Neg          | ¬            | Neg
 Until        | U            | Or
 
-## Examples
+## Example
 An interval that begins with "1" and ends with "3", and contains at least "2":
 <p align="center">
   ◻<sub>[p,q]</sub> ◇<sub>[r]</sub> True
