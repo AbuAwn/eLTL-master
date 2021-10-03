@@ -25,8 +25,6 @@ object eLTL {
             })
     }
 
-    //def apply  : (DataSet[(Long, _)], _ => Boolean) => ( DataSet[(Long, Boolean)]) =  (b: DataSet[(Long, _)], cond: _ => Boolean) => b.map{ e => (e._1, cond(e._2))}
-
     def apply[T](b: DataSet[(Long, T)], cond: T => Boolean): DataSet[(Long, Boolean)] 
             =  b.map{ e => (e._1, cond(e._2))}
     val mApply = Memo.immutableHashMapMemo{apply _ tupled}
