@@ -110,4 +110,4 @@ def Cond : (TT => Boolean) = (e: TT) => {e == 2}
 ...
 println(A(Start, Stop) (E(Cond) (True)) (_10, 0, Long.MaxValue))
 ```
-More examples have benn implemented in *Ejemplos.scala*.
+More examples have been implemented in *Ejemplos.scala*.
