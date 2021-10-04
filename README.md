@@ -114,4 +114,5 @@ println(A(Start, Stop) (E(Cond) (True)) (_10, 0, Long.MaxValue))
 ```
 More examples have been implemented in *Ejemplos.scala*.
 
-Check out [Rendimiento.ipynb][website] for more fun.
+Check out this Jupyter notebook for more fun.
+<https://github.com/AbuAwn/eLTL-master/blob/1.1/Rendimiento.ipynb>
