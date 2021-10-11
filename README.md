@@ -80,7 +80,7 @@ For all intervals that begin with "1" and end with "3" must contain at least one
 <p align="center">
   p:{e==1}, q:{e==3} and r:{e==2} 
 </p>
-The file csv/10.csv meets this condition, values are pairs with the forme (index: Long, Data: T), in this case T is en integer:
+The file csv/10.csv meets this condition, values are pairs with the forme (index: Long, Data: T), in this case T is an integer:
 
 ```
 1;1
