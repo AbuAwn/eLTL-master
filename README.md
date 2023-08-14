@@ -1,6 +1,6 @@
 
 # This project is part of a master's thesis to implement eLTL logic, UMA University (Spain).
-A *Flink* application project using *Scala* to implement Event-driven Interval Temporal Logic ([eLTL](https://link.springer.com/article/10.1007/s10515-022-00367-5)) that extends [LTL](https://en.wikipedia.org/wiki/Linear_temporal_logic) logic for analysing hybrid systems.
+A *Flink* application project using *Scala* to implement Event-driven Interval Temporal Logic ([eLTL](https://link.springer.com/article/10.1007/s10515-022-00367-5)) that extends Linear temporal logic [LTL](https://en.wikipedia.org/wiki/Linear_temporal_logic) for analysing hybrid systems.
 
 To run and test your application locally, you can just execute `sbt run` then select the main class that contains the Flink job . 
 
