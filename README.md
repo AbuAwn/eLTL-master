@@ -1,6 +1,6 @@
 
 # This project is part of a master's thesis to implement eLTL logic, UMA University (Spain).
-A *Flink* application project using *Scala* and *SBT* to implement event-driven interval temporal logic ([eLTL](https://riuma.uma.es/xmlui/bitstream/handle/10630/26366/s10515-022-00367-5.pdf?sequence=1&isAllowed=y))
+A *Flink* application project using *Scala* and *SBT* to implement Event-driven Interval Temporal Logic ([eLTL](https://riuma.uma.es/xmlui/bitstream/handle/10630/26366/s10515-022-00367-5.pdf?sequence=1&isAllowed=y))
 
 To run and test your application locally, you can just execute `sbt run` then select the main class that contains the Flink job . 
 
